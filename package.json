@@ -1,5 +1,6 @@
 {
-  "name": "create-rest-server",
+  "name": "@danhab99/create-rest-server",
+  "private": false,
   "version": "1.0.0",
   "description": "Command for creating a dockerized mongo express server",
   "main": "index.js",
